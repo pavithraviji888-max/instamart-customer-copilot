@@ -1,0 +1,5 @@
+.venv/
+.venv_new/
+**pycache**/
+*.pyc
+state/
